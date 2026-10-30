@@ -1,0 +1,37 @@
+[
+  {
+    "key": "H4R-VIP-12345",
+    "status": "active",
+    "expires": "2027-12-31T23:59:59.000Z"
+  },
+  {
+    "key": "H4R-PRO-99999",
+    "status": "active",
+    "expires": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "key": "H4RPANEL",
+    "status": "active",
+    "expires": "2026-12-19T23:59:59.000Z"
+  },
+  {
+    "key": "H4R PANEL",
+    "status": "active",
+    "expires": "2026-12-19T23:59:59.000Z"
+  },
+  {
+    "key": "H4R-10DAYS",
+    "status": "active",
+    "expires": "2026-11-09T23:59:59.000Z"
+  },
+  {
+    "key": "H4R-30DAYS",
+    "status": "active",
+    "expires": "2026-11-29T23:59:59.000Z"
+  },
+  {
+    "key": "H4R-50DAYS",
+    "status": "active",
+    "expires": "2026-12-19T23:59:59.000Z"
+  }
+]
